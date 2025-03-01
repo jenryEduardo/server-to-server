@@ -8,3 +8,9 @@ router.get("/products",getShort)
 router.get("/users",getUserShort)
 
 module.exports = router                                     
+
+
+
+
+
+
